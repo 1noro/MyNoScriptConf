@@ -385,7 +385,39 @@
         "§:mov-alarmas-dot-mov-prod4.appspot.com",
         "§:mov-mantix-dot-mov-prod1.appspot.com",
         "§:mov-record-dot-mov-prod1.appspot.com",
-        "§:gitkoke.es"
+        "§:gitkoke.es",
+        "§:collab.net",
+        "§:discordapp.com",
+        "file:",
+        "§:warp.net",
+        "§:introversion.co.uk",
+        "§:scribd.com",
+        "§:temp-mail.org",
+        "§:docdownloader.com",
+        "§:redd.it",
+        "§:embedly.com",
+        "§:tineye.com",
+        "192.168.1.222",
+        "§:wordreference.com",
+        "ipswichmuseum.net",
+        "§:whatismyip.com",
+        "introversion.co.uk",
+        "sgae.es",
+        "§:aliexpress.com",
+        "§:alicdn.com",
+        "§:gusti-cuero.es",
+        "§:cambio-euro.es",
+        "§:mincotur.gob.es",
+        "§:nationalgeographic.es",
+        "§:ngeo.com",
+        "xunta.gal",
+        "§:saveyourinternet.eu",
+        "§:archive.org",
+        "§:liveedu.tv",
+        "§:contrast-finder.org",
+        "§:html-css-js.com",
+        "angrytools.com",
+        "§:procatinator.com"
       ],
       "untrusted": [
         "§:google-analytics.com",
@@ -404,10 +436,29 @@
         "§:ads-twitter.com",
         "§:amazon-adsystem.com",
         "googleadservices.com",
-        "§:fbcdn.net"
+        "§:fbcdn.net",
+        "googletagmanager.com"
       ],
       "custom": {
         "http://atomos.rat.la/informatica-basica-adultos/curso%2018-19/octubre/clase%2017%20de%20octubre%20de%202018/ibaC181017a.webm": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.purdue.edu/impactearth/Content/flash/final.swf": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "other",
+            "object"
+          ],
+          "temp": false
+        },
+        "https://v.redd.it/bsy02iun20201/DASH_600_K": {
           "capabilities": [
             "frame",
             "fetch",
