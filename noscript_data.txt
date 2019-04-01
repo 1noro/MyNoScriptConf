@@ -502,7 +502,11 @@
         "§:pypi.org",
         "§:fastly-insights.com",
         "§:vmware.com",
-        "§:wordpress.org"
+        "§:wordpress.org",
+        "§:fieito.com",
+        "localhost",
+        "§:rudrastyh.com",
+        "§:coinbase.com"
       ],
       "untrusted": [
         "§:google-analytics.com",
@@ -522,7 +526,8 @@
         "googleadservices.com",
         "§:fbcdn.net",
         "googletagmanager.com",
-        "google-analytics.com"
+        "google-analytics.com",
+        "slither.io"
       ],
       "custom": {
         "http://atomos.rat.la/informatica-basica-adultos/curso%2018-19/octubre/clase%2017%20de%20octubre%20de%202018/ibaC181017a.webm": {
@@ -569,6 +574,10 @@
   "sync": {
     "global": false,
     "xss": true,
+    "cascadeRestrictions": false,
+    "xssScanRequestBody": true,
+    "xssBlockUnscannedPOST": false,
+    "overrideTorBrowserPolicy": false,
     "clearclick": true,
     "storage": "sync"
   },
