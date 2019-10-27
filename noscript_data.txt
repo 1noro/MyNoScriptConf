@@ -536,11 +536,41 @@
         "§:kernel.org",
         "cambre.es",
         "§:clave.gob.es",
-        "§:redsara.es"
+        "§:redsara.es",
+        "§:playok.com",
+        "jdownloader.org",
+        "§:sass-lang.com",
+        "§:raw.githubusercontent.com",
+        "§:0to255.com",
+        "§:pixilart.com",
+        "§:f-droid.org",
+        "§:centos.org",
+        "§:sunmedia.tv",
+        "§:d19ptbnuzhibkh.cloudfront.net",
+        "§:wetransfer.net",
+        "§:bargainhardware.co.uk",
+        "§:europe-west1-mov-prod10.cloudfunctions.net",
+        "§:archlinux.org",
+        "§:bitly.com",
+        "§:docrdsfx76ssb.cloudfront.net",
+        "§:rockfm.fm",
+        "§:agilecontent.com",
+        "§:recaptcha.net",
+        "§:dashnet.org",
+        "§:openttd.org",
+        "§:linksyssmartwifi.com",
+        "§:d2j2wts7w9k1po.cloudfront.net",
+        "§:openstreetmap.fr",
+        "§:pressablecdn.com",
+        "192.168.111.1",
+        "§:strawpoll.com",
+        "§:ui.com",
+        "§:debian.org",
+        "§:snapcraft.io",
+        "§:ubuntu.com"
       ],
       "untrusted": [
         "§:google-analytics.com",
-        "facebook.com",
         "§:facebook.com",
         "§:coinhive.com",
         "§:googleadservices.com",
@@ -554,10 +584,10 @@
         "§:ads-twitter.com",
         "§:amazon-adsystem.com",
         "googleadservices.com",
-        "§:fbcdn.net",
         "googletagmanager.com",
         "google-analytics.com",
-        "slither.io"
+        "slither.io",
+        "facebook.com"
       ],
       "custom": {
         "http://atomos.rat.la/informatica-basica-adultos/curso%2018-19/octubre/clase%2017%20de%20octubre%20de%202018/ibaC181017a.webm": {
@@ -612,6 +642,7 @@
     "storage": "sync"
   },
   "xssUserChoices": {
-    "https://www.norwegian.com>https://www.facebook.com": "allow"
+    "https://www.norwegian.com>https://www.facebook.com": "allow",
+    "https://www.google.com>https://wiki.archlinux.org": "allow"
   }
 }
